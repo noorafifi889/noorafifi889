@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="204" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img align="right" height="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">👋 Hi, I'm Noor from Gaza<br><br>- 🔭 I’m working as a **Front-End Developer**<br>- 📚 Currently learning **React.js**<br>- ⚡ In my free time, I enjoy exploring new UI designs, improving my coding skills, and building personal projects<br>- 📫 Reach me at: noorafifi889@gmail.com</h4>
+<h3 align="left">👋 Hi, I'm Noor from Gaza<br><br>- 🔭 I’m working as a **Front-End Developer**<br>- 📚 Currently learning **React.js**<br>- ⚡ In my free time, I enjoy exploring new UI designs, improving my coding skills, and building personal projects<br>- 📫 Reach me at: noorafifi889@gmail.com</h3>
 
 ###
 
@@ -44,12 +44,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=noorafifi889&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noorafifi889&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noorafifi889&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
