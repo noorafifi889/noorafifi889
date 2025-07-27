@@ -16,9 +16,14 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+##
 
-<h3 align="left">👋 Hi, I'm Noor from Gaza<br><br>- 🔭 I’m working as a **Front-End Developer**<br>- 📚 Currently learning **React.js**<br>- ⚡ In my free time, I enjoy exploring new UI designs, improving my coding skills, and building personal projects<br>- 📫 Reach me at: noorafifi889@gmail.com</h3>
+<h4 align="left">👋 Hi, I'm Noor from Gaza<br><br>
+- 🔭 I’m working as a <strong>Front-End Developer</strong><br>
+- 📚 Currently learning <strong>React.js</strong><br>
+- ⚡ In my free time, I enjoy exploring new UI designs, improving my coding skills, and building personal projects<br>
+- 📫 Reach me at: noorafifi889@gmail.com
+</h4>
 
 ###
 
