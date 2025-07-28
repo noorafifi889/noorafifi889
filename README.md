@@ -3,7 +3,7 @@
 
 ###
 
-<h1 align="left">Hey there   👋</h1>
+<h1 align="left">Hey there ,Iam Noor Al-Afifi👋</h1>
 
 ###
 
@@ -17,11 +17,12 @@
 
 ##
 
-<h4 align="left">👋 Hi, I'm Noor from Gaza<br><br>
-- 🔭 I’m working as a <strong>Front-End Developer</strong><br>
+<h4 align="left">👋<br><br>
+- 🔭 I’m learning as a <strong>Front-End Developer</strong><br>
 - 📚 Currently learning <strong>React.js</strong><br>
 - ⚡ In my free time, I enjoy exploring new UI designs, improving my coding skills, and building personal projects<br>
-- 📫 Reach me at: noorafifi889@gmail.com
+- 📫 Reach me at:<a  href ="mailto:noorafifi889@gmail.com " >noorafifi889@gmail.com</a>
+</h4>
 </h4>
 
 ###
