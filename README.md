@@ -14,9 +14,6 @@
 ###
 
 <h2 align="left">👩‍💻  About Me</h2>
-
-##
-
 <h4 align="left"><br>
 - 🔭 I’m learning as a <strong>Front-End Developer</strong><br>
 - 📚 Currently learning <strong>React.js</strong><br>
