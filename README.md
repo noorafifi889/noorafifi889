@@ -13,15 +13,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ##
 
-<h4 align="left">👋<br><br>
+<h4 align="left"><br>
 - 🔭 I’m learning as a <strong>Front-End Developer</strong><br>
 - 📚 Currently learning <strong>React.js</strong><br>
 - ⚡ In my free time, I enjoy exploring new UI designs, improving my coding skills, and building personal projects<br>
-- 📫 Reach me at:<a  href ="mailto:noorafifi889@gmail.com " >noorafifi889@gmail.com</a>
+- 📫 Reach me at: <a  href ="mailto:noorafifi889@gmail.com " >noorafifi889@gmail.com</a>
 </h4>
 </h4>
 
