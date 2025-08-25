@@ -3,7 +3,7 @@
 
 ###
 
-<h1 align="left">Hey there👋 ,Iam Noor Al-Afifi</h1>
+<h1 align="left">Hey there👋 ,I'm Noor Al-Afifi</h1>
 
 ###
 
