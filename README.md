@@ -1,61 +1,66 @@
 <br clear="both">
 
+<h1 align="left">Hey 👋 I'm Noor Al-Afifi</h1>
 
-###
+<p align="left">
+🚀 Passionate <strong>Front-End Developer</strong> focused on building modern, responsive, and scalable web applications using React ecosystem.
+</p>
 
-<h1 align="left">Hey there👋 ,I'm Noor Al-Afifi</h1>
+---
 
-###
+## 👩‍💻 About Me
+- 💻 Front-End Developer (React ecosystem)
+- 🌱 Currently mastering <strong>React.js & Next.js</strong>
+- ⚡ Interested in UI/UX, clean code, and performance
+- 🚀 Love building personal projects & exploring new web technologies
+- 📫 Reach me: <a href="mailto:noorafifi889@gmail.com">noorafifi889@gmail.com</a>
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=noorafifi889.noorafifi889&"  />
-</div>
+---
 
-###
+## 🛠 Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,bootstrap,html,css,git,github,vscode,figma" />
+</p>
 
-<h2 align="left">👩‍💻  About Me</h2>
-<h4 align="left"><br>
-- 🔭 I’m learning as a <strong>Front-End Developer</strong><br>
-- 📚 Currently learning <strong>React.js</strong><br>
-- ⚡ In my free time, I enjoy exploring new UI designs, improving my coding skills, and building personal projects<br>
-- 📫 Reach me at: <a  href ="mailto:noorafifi889@gmail.com " >noorafifi889@gmail.com</a>
-</h4>
-</h4>
+### ⚡ Libraries & Concepts
+- 🔹 React Query (Server State Management)
+- 🔹 Axios & API Integration
+- 🔹 React Hook Form
+- 🔹 Zod Validation
+- 🔹 Zustand / Context API
+- 🔹 Framer Motion
+- 🔹 Responsive Design
+- 🔹 Component Reusability
+- 🔹 Clean Architecture
 
-###
+---
 
-<h2 align="left">🛠 Language and tools</h2>
+## 🚀 Front-End Focus
+✨ Building scalable React & Next.js apps  
+✨ Handling async data with React Query  
+✨ Writing clean TypeScript code  
+✨ Creating reusable UI components  
+✨ Optimizing performance & UX  
+✨ API-driven development  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
-###
-
-
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noorafifi889&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noorafifi889&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=noorafifi889&theme=dracula&show_icons=true" height="150"/>
 </div>
 
-###
+---
+
+## 🌟 Featured Projects
+🔹 Bills Management App  
+🔹 Budget Tracker  
+🔹 Portfolio Website  
+
+---
+
+## 🤝 Let's Connect
+<p align="left">
+<a href="https://github.com/noorafifi889"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="mailto:noorafifi889@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
