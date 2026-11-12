@@ -1,14 +1,18 @@
 <div align="center">
-<div align="center"> <h1 align="center">Noor Al-Afifi 👋</h1></div
+
+<h1 align="center">Noor Al-Afifi 👋</h1>
+
+<h3 align="center">Full-Stack Web Developer | React.js, Next.js & Laravel | AI Integration</h3>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;React.js+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Laravel;I+build+production-ready+SaaS+platforms;AI-Powered+Apps+with+Google+Gemini+%26+LLMs;Based+in+Gaza%2C+Palestine" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6366f1&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=0f172a)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=06b6d4)
+![Profile Views](https://komarev.com/ghpvc/?username=noorafifi889&label=Profile%20Views&color=6366f1&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/noorafifi889?style=for-the-badge&logo=github&color=0f172a)](https://github.com/noorafifi889)
+[![CV](https://img.shields.io/badge/Download-CV-f59e0b?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1QXdTtzQtBNpfpNfDyPPgAFW9ShCeh2Dx/view?usp=sharing)
 
 <br/>
 
@@ -99,22 +103,6 @@ const noor = {
 | **AI-Powered Features** | Document analysis, recommendations, and smart automation with Gemini & LLMs |
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=6366f1" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0f172a&ring=6366f1&fire=06b6d4&currStreakLabel=06b6d4" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🤝 Let's Work Together
 
 I'm open to **freelance projects, remote opportunities, and collaborations**. If you need a developer who can handle the frontend and the backend and add AI features on top, let's talk.
